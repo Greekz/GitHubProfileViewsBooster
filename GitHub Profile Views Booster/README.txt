@@ -12,3 +12,5 @@ HOW TO USE
 2.Edit Main.py with IDLE
 3.Put your GitHub profile link and save
 4.Run by using "python Main.py"
+
+YOU NEED TO DOWNLOAD CHROMEDRIVER FOR YOUR CHROME VERSION AND PUT IT IN THIS FOLDER
